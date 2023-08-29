@@ -1,4 +1,4 @@
-# ProyectoAgosto03_DigitalBuho
+# Frontend
 #### Presenta una página web con un encabezado de navegación estilo menú desplegable. La página utiliza la biblioteca de estilos Tailwind CSS para facilitar la maquetación y el diseño.
 
 ### Encabezado y Metadatos:
