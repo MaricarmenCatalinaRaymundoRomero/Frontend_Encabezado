@@ -33,9 +33,15 @@
 - La función cambia el ícono entre "menu" y "close".
 - La función también aplica una clase CSS para mover el menú hacia arriba o abajo, logrando el efecto de mostrar u ocultar el menú.
 
+
+## La presentacion de la pagina.
   
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto03_DigitalBuho/assets/129924045/da4a7c1d-0e19-4691-ba84-d2e95cf83f9d)
 
+## La presentacion al momento de disminuir la contextura.
+
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto03_DigitalBuho/assets/129924045/ab37f2d4-7285-4491-bce8-5cd9d4d03a90)
+
+## La presentacion al darlo el icono de menu.
 
 ![image](https://github.com/MaricarmenCatalinaRaymundoRomero/ProyectoAgosto03_DigitalBuho/assets/129924045/c83a9264-c363-43b9-b24e-bf17e2102d1d)
